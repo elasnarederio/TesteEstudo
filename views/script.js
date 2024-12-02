@@ -1,4 +1,4 @@
-const API_URL = 'https://testeestudoback3.onrender.com';
+const API_URL = 'https://testeestudoback3.onrender.com/api/expenses';
 
 document.getElementById('expenseForm').addEventListener('submit', async (e) => {
     e.preventDefault();
